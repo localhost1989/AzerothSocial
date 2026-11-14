@@ -1,14 +1,10 @@
 # Azeroth Social · WoW Forever
 
-**Azeroth Social — аддон для WoW Forever.**
-
 **Azeroth Social is an addon for WoW Forever.**
 
-[Download the latest ZIP / Скачать ZIP](https://github.com/localhost1989/AzerothSocial/releases/latest/download/AzerothSocial-Forever.zip)
+[Download the latest ZIP](https://github.com/localhost1989/AzerothSocial/releases/latest/download/AzerothSocial-Forever.zip)
 
 ![Azeroth Social](screenshots/0.2.20/profile.jpg)
-
-## English
 
 Azeroth Social gives your character a profile, a personal wall and an inbox inside WoW Forever. After a good dungeon run, open **Friends → Recently played** to find your group, message someone or leave a review. The addon uses the language of your game client. Russian and English are included.
 
@@ -26,22 +22,4 @@ Azeroth Social gives your character a profile, a personal wall and an inbox insi
 
 **Custom cover.** On Windows, open `AzerothSocial/Windows/ImportCover.exe`. On Mac, open the cover importer in the ZIP's `macOS` folder. Choose a photo and restart WoW. Open **Edit profile → Change cover → Custom cover → Select area**, drag to frame the image and save. Your custom photo is visible on your own computer.
 
-## Русский
-
-Azeroth Social добавляет профиль персонажа, личную стену и переписки прямо в WoW Forever. После удачного похода в подземелье откройте **Друзья → Недавно играли**. Оттуда можно найти напарника, написать ему или оставить отзыв.
-
-| Раздел | Что в нём делать |
-| --- | --- |
-| Профиль | Нажмите на портрет, чтобы увидеть персонажа в полный рост и повернуть модель. В карточке есть характеристики и профессии. В профиле можно изменить описание, родной город и обложку. По умолчанию оформление соответствует фракции. |
-| Личная стена | Пишите записи или включите автоматические публикации о достижениях и первой зафиксированной победе над каждым боссом подземелья. Нажатие на достижение открывает подробности. При открытом профиле посетитель может запросить пять последних записей, пока вы в сети. |
-| Друзья | Поиск по имени или Имя-Мир охватывает друзей WoW, Battle.net и контакты аддона. В «Недавно играли» собраны недавние союзники из истории клиента и участники групп и рейдов, которых аддон запомнил за 30 дней. Из карточки можно добавить друга, написать или отправить ссылку на скачивание. |
-| Отзывы | Откройте «Отзывы» в карточке игрока и напишите, как прошла совместная игра. Нужна версия 0.2.20 или новее у обоих игроков. Получатель должен быть в сети и открыть профиль. У каждого автора один отзыв о персонаже. Повторная отправка обновляет текст. Владелец видит до 40 отзывов, посетители — пять последних. При блокировке автора его отзывы скрываются из списка, доступного посетителям. |
-| Группы | Создайте группу до восьми персонажей вместе с создателем. Создатель приглашает игроков в сети по имени или Имя-Мир. Можно принять или отклонить приглашение, выйти и обновить состав, когда создатель в сети. Группы сохраняются после перезагрузки. Участникам нужна версия 0.2.21 или новее. |
-| Сообщения | Здесь хранится история переписок. Чтобы начать разговор, нажмите «Написать» у друга. Конверт рядом с игровым чатом показывает число непрочитанных. Для сообщений между персонажами с аддоном есть подтверждение доставки, для контактов Battle.net — обычный личный чат Battle.net. Локально сохраняется до 100 сообщений на диалог. |
-| Настройки | Профиль по умолчанию закрыт. Откройте его для запросов профиля, записей и отзывов. Здесь же можно отключить автопубликации и снять блокировку игрока. |
-
-**Установка.** Распакуйте папку `AzerothSocial` в `_forever_/Interface/AddOns/`. Откройте аддон командой `/as` или нажатием на герб фракции у мини-карты. При обновлении во время игры введите `/reload`.
-
-**Своя обложка.** На Windows откройте `AzerothSocial/Windows/ImportCover.exe`, на Mac — приложение из папки `macOS` в архиве. Выберите фото и перезапустите игру. В профиле откройте **Редактировать → Сменить обложку → Свой фон → Выделить область**, протяните рамку и сохраните. Фото отображается на вашем компьютере.
-
-Автор концепции и продуктовых решений / Project concept and product direction by [localhost1989](https://github.com/localhost1989). [Авторство и права / Authorship and rights](https://github.com/localhost1989/AzerothSocial/blob/main/NOTICE.md).
+Project concept and product direction by [localhost1989](https://github.com/localhost1989). [Authorship and rights](https://github.com/localhost1989/AzerothSocial/blob/main/NOTICE.md).
