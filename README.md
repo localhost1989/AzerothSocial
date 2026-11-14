@@ -1,5 +1,9 @@
 # Azeroth Social · WoW Forever
 
+**Azeroth Social — аддон для WoW Forever.**
+
+**Azeroth Social is an addon for WoW Forever.**
+
 [Download the latest ZIP / Скачать ZIP](https://github.com/localhost1989/AzerothSocial/releases/latest/download/AzerothSocial-Forever.zip)
 
 ![Azeroth Social](screenshots/0.2.20/profile.jpg)
