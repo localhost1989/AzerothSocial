@@ -8,6 +8,8 @@
 
 ![Friends](screenshots/friends-en.png)
 
+**New in 0.2.27.** What the addon itself sends to other players is always in English, and each reader sees it in their own language.
+
 **New in 0.2.26.**
 
 - **Communities**, like groups on Facebook. Open **Communities** for a catalog of ready topics: Fishing, Crafting & Auction House, Looking for Dungeon Group, Raids, PvP, Guild Recruitment and Help for Newcomers. Players can create their own communities too. Each one has a feed with comments, likes and item links, a live chat and a list of members online. Posts travel between online players who have the addon on your realm and faction. A newcomer receives the latest posts from any member online.
